@@ -1,6 +1,4 @@
-# The Palace Project
-
-## Mobile Application End User License Agreement
+# Mobile Application End User License Agreement
 
 This Mobile Application End User License Agreement ("**Agreement**") is
 a binding agreement between you ("**End User**" or "**you**") and
