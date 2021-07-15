@@ -2,8 +2,8 @@
 
 This repo is a simple github pages site that contains the legal documents used for the Palace Project.
 
-- EULA [[Published](https://legal.palaceproject.io/End User License Agreement.html)] [[Markdown](docs/End User License Agreement.md)]
-- Privacy Policy [[Published](https://legal.palaceproject.io/Privacy Policy.html)] [[Markdown](docs/Privacy Policy.md)]
+- EULA [[Published](https://legal.palaceproject.io/End%20User%20License%20Agreement.html)] [[Markdown](docs/End%20User%20License%20Agreement.md)]
+- Privacy Policy [[Published](https://legal.palaceproject.io/Privacy%20Policy.html)] [[Markdown](docs/Privacy%20Policy.md)]
 
 ## Original Files
 
