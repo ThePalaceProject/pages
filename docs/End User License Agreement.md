@@ -269,7 +269,7 @@ any changes, as they are binding on you.
         typically be found in the “About,” “Imprint,” or “Copyright”
         sections of an eBook. For general information about copyright,
         fair use, public domain, and related topics, you may
-        consult [http://www.copyright.gov/](http://www.copyright.gov/).
+        consult <http://www.copyright.gov/>.
 
 9.  <u>Updates</u>. Company may from time to time in its sole discretion
     develop and provide Application updates, which may include upgrades,
@@ -288,11 +288,11 @@ any changes, as they are binding on you.
     2.  you may receive notice of or be prompted to download and install
         available Updates.
 
-You shall promptly download and install all Updates and acknowledge and
-agree that the Application or portions thereof may not properly operate
-should you fail to do so. You further agree that all Updates will be
-deemed part of the Application and be subject to all terms and
-conditions of this Agreement.
+    You shall promptly download and install all Updates and acknowledge and
+    agree that the Application or portions thereof may not properly operate
+    should you fail to do so. You further agree that all Updates will be
+    deemed part of the Application and be subject to all terms and
+    conditions of this Agreement.
 
 10. <u>Usage Data</u>. You acknowledge and understand that in connection
     with your use of the Application certain information regarding your
@@ -323,7 +323,7 @@ conditions of this Agreement.
     Materials and links thereto are provided solely as a convenience to
     you, and you access and use them entirely at your own risk and
     subject to such third parties' terms and conditions, a current list
-    of which can be found at http://thepalaceproject.org/licenses/.
+    of which can be found at <http://thepalaceproject.org/licenses/>.
 
 13. <u>Term and Termination</u>.
 
@@ -370,10 +370,10 @@ conditions of this Agreement.
     MEET ANY PERFORMANCE OR RELIABILITY STANDARDS, OR BE ERROR-FREE, OR
     THAT ANY ERRORS OR DEFECTS CAN OR WILL BE CORRECTED.
 
-SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF OR LIMITATIONS ON
-IMPLIED WARRANTIES OR THE LIMITATIONS ON THE APPLICABLE STATUTORY RIGHTS
-OF A CONSUMER, SO SOME OR ALL OF THE ABOVE EXCLUSIONS AND LIMITATIONS
-MAY NOT APPLY TO YOU.
+    SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF OR LIMITATIONS ON
+    IMPLIED WARRANTIES OR THE LIMITATIONS ON THE APPLICABLE STATUTORY RIGHTS
+    OF A CONSUMER, SO SOME OR ALL OF THE ABOVE EXCLUSIONS AND LIMITATIONS
+    MAY NOT APPLY TO YOU.
 
 15. <u>Limitation of Liability</u>. TO THE FULLEST EXTENT PERMITTED BY
     APPLICABLE LAW, IN NO EVENT WILL COMPANY OR ITS AFFILIATES, OR ANY
@@ -390,12 +390,12 @@ MAY NOT APPLY TO YOU.
     2.  DIRECT DAMAGES IN AMOUNTS THAT IN THE AGGREGATE EXCEED THE
         AMOUNT ACTUALLY PAID BY YOU FOR THE APPLICATION.
 
-THE FOREGOING LIMITATIONS WILL APPLY WHETHER SUCH DAMAGES ARISE OUT OF
-BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE AND
-REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE OR COMPANY WAS
-ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT
-ALLOW CERTAIN LIMITATIONS OF LIABILITY SO SOME OR ALL OF THE ABOVE
-LIMITATIONS OF LIABILITY MAY NOT APPLY TO YOU.
+    THE FOREGOING LIMITATIONS WILL APPLY WHETHER SUCH DAMAGES ARISE OUT OF
+    BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE AND
+    REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE OR COMPANY WAS
+    ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT
+    ALLOW CERTAIN LIMITATIONS OF LIABILITY SO SOME OR ALL OF THE ABOVE
+    LIMITATIONS OF LIABILITY MAY NOT APPLY TO YOU.
 
 16. <u>Indemnification</u>. You agree to indemnify, defend, and hold
     harmless Company and its officers, directors, employees, agents,
