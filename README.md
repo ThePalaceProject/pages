@@ -10,6 +10,15 @@ This repo is a simple github pages site that contains the legal documents used f
 The original word files from our lawyer are stored in the [word](/word) folder and markdown versions are stored
 in the [docs](/docs) folder and published to https://legal.palaceproject.io with github pages.
 
-## Conversion
+### Conversion
 
-The word documents were converted to github markdown using [pandoc](https://pandoc.org/) with the `gfm` output type.
+The word documents were converted to github markdown using [pandoc](https://pandoc.org/) with the `gfm` output type. The generated markdown was then touched up by hand in order to get them to look correct in github pages.
+
+## Local editing
+
+You can edit the pages locally and see what the changes will look like by running the following commands from the root of this github repo: 
+```
+cd docs
+bundle install
+bundle exec jekyll serve --incremental
+```
