@@ -1,6 +1,6 @@
 # Privacy Policy
 
-<u>Introduction</u>
+## Introduction
 
 LYRASIS ("**Company**" or "**We**") respects your privacy and is
 committed to protecting it through our compliance with this policy. This
@@ -41,7 +41,7 @@ LYRASIS never sells your personal information. LYRASIS will not use your
 information for any purposes other than as described in this Privacy
 Policy.
 
-<u>Children Under the Age of 13</u>
+## Children Under the Age of 13
 
 The App is not intended for children under 13 years of age, and we do
 not knowingly collect personal information from children under 13. If we
@@ -49,7 +49,7 @@ learn we have collected or received personal information from a child
 under 13 without verification of parental consent, we will delete that
 information.
 
-<u>Information We Collect and How We Collect It</u>
+## Information We Collect and How We Collect It
 
 We collect information from and about users of our App:
 
@@ -57,7 +57,7 @@ We collect information from and about users of our App:
 
 -   Automatically when you use the App.
 
-*Information You Provide to Us*
+### Information You Provide to Us
 
 When you download, register with, or use this App, we may ask you
 provide information:
@@ -81,7 +81,7 @@ provide information:
 -   Records and copies of your correspondence (including your email
     address), if you contact us.
 
-*Automatic Information Collection*
+### Automatic Information Collection
 
 When you download, access, and use the App, it may use technology to
 automatically collect:
@@ -106,7 +106,7 @@ automatically collect:
 If you do not want us to collect this information do not download the
 App or delete it from your device.
 
-<u>How We Use Your Information</u>
+## How We Use Your Information
 
 We use information that we collect about you or that you provide to us,
 including any personal information, to:
@@ -135,7 +135,7 @@ deliver a better and more personalized experience by enabling us to:
 We use location information we collect to provide you location-relevant
 services via our App.
 
-<u>Disclosure of Your Information</u>
+## Disclosure of Your Information
 
 We may disclose aggregated information about our users, and information
 that does not identify any individual or device, without restriction.
@@ -171,8 +171,7 @@ provide solely to the extent that you opt-in for a virtual library card:
 -   If we believe disclosure is necessary or appropriate to protect the
     rights, property, or safety of LYRASIS, our customers or others.
 
-<u>Your Choices About Our Collection, Use, and Disclosure of Your
-Information</u>
+## Your Choices About Our Collection, Use, and Disclosure of Your Information
 
 We strive to provide you with choices regarding the personal information
 you provide to us. This section describes mechanisms we provide for you
@@ -190,7 +189,7 @@ to control certain uses and disclosures of over your information.
     of location information, some parts of the App may become
     inaccessible or not function properly.
 
-<u>Accessing and Correcting Your Personal Information</u>
+## Accessing and Correcting Your Personal Information
 
 You may also send us an email at <privacy@thepalaceproject.org> to
 request access to, correct, or delete any personal information that you
@@ -199,7 +198,7 @@ by also deleting your user account. We may not accommodate a request to
 change information if we believe the change would violate any law or
 legal requirement or cause the information to be incorrect.
 
-<u>Your California Privacy Rights</u>
+## Your California Privacy Rights
 
 If you are a California resident, California law may provide you with
 additional rights regarding our use of your personal information.
@@ -208,9 +207,9 @@ California's "Shine the Light" law (Civil Code Section § 1798.83)
 permits users of our App that are California residents to request
 certain information regarding our disclosure of personal information to
 third parties for their direct marketing purposes. To make such a
-request, please send an email to privacy@thepalaceproject.org.
+request, please send an email to <privacy@thepalaceproject.org>.
 
-<u>Data Security</u>
+## Data Security
 
 We have implemented measures designed to secure your personal
 information from accidental loss and from unauthorized access, use,
@@ -228,7 +227,7 @@ your personal information transmitted through our App. Any transmission
 of personal information is at your own risk. We are not responsible for
 circumvention of any privacy settings or security measures we provide.
 
-<u>Changes to Our Privacy Policy</u>
+## Changes to Our Privacy Policy
 
 We may update our privacy policy from time to time. If we make material
 changes to how we treat our users' personal information, we will post
@@ -239,11 +238,9 @@ The date the privacy policy was last revised is identified at the top of
 the page. You are responsible for periodically visiting this privacy
 policy to check for any changes.
 
-<u>Contact Information</u>
+## Contact Information
 
 To ask questions or comment about this privacy policy and our privacy
-practices, contact us at:
-
-privacy@thepalaceproject.org
+practices, contact us at: <privacy@thepalaceproject.org>
 
 Last Modified: July 2021
